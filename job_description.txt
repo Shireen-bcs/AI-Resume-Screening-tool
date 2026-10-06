@@ -1,0 +1,4 @@
+
+We are looking for a Python Developer with experience in web frameworks such as Django or Flask, 
+knowledge of REST APIs, and good understanding of database systems like MySQL or PostgreSQL. 
+Familiarity with frontend basics (HTML/CSS/JavaScript) is a plus.
